@@ -12,6 +12,7 @@ Once completed randomly generated password would be made.
 
 ## Deployed URL
 
+https://lewishammy.github.io/Password-Generator/
 
 
 
